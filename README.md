@@ -8,6 +8,8 @@ Two students participated in the making of this project:
 - Auliac Christopher
 
 [Game page](https://globalgamejam.org/2021/games/ocean-0)
+
+
 ![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2021/01/271590/e.png?itok=cYuI5zuY&timestamp=1612119420)
 ![](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2021/01/271590/screenshot_20210131_192348.png?itok=lAGYDQjv&timestamp=1612119420)
 
